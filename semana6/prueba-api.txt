@@ -1,0 +1,1 @@
+Al enviar una petición POST a la ruta /registro con un JSON que contiene nombre y mensaje, el servidor recibe los datos mediante req.body y responde con otro JSON confirmando que los datos fueron recibidos correctamente.
